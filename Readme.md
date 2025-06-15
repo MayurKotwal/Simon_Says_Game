@@ -38,7 +38,7 @@ Example:
 
 1. Clone this repository
 
-   git clone https://github.com/yourusername/simon-says-game.git
+   git clone https://github.com/MayurKotwal/Simon_Says_Game
 
 2. Navigate to the project folder
 
